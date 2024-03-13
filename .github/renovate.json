@@ -1,0 +1,5 @@
+{
+  "extends": ["config:recommended", "github>okhelifi/renovate-config-test:renovate"],
+  "dependencyDashboard": true,
+  "repositories": ["okhelifi/renovate-config-test"]
+}
